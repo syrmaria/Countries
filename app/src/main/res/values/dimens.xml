@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_search">40dp</dimen>
+    <dimen name="margin_between_views">16dp</dimen>
+    <dimen name="flag_background_width">160dp</dimen>
+    <dimen name="flag_background_height">100dp</dimen>
+    <dimen name="flag_width">156dp</dimen>
+    <dimen name="flag_height">96dp</dimen>
+</resources>
